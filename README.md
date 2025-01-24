@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://santo-dev.vercel.app/](https://santo-dev.vercel.app/)
 
-- 📫 How to reach me **saishanto2501**
+- 📫 How to reach me **saishanto2501@gmail.com**
 
 - ⚡ Fun fact **I think am funny**
 
