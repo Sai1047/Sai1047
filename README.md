@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Python Framework and ML**
 
-- 👨‍💻 All of my projects are available at [santo-dev.vercel.app](santo-dev.vercel.app)
+- 👨‍💻 All of my projects are available at [https://santo-dev.vercel.app/](https://santo-dev.vercel.app/)
 
 - 📫 How to reach me **saishanto2501**
+
+- ⚡ Fun fact **I think am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&show_icons=true&locale=en&layout=compact" alt="sai1047" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai1047&show_icons=true&locale=en" alt="sai1047" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai1047&" alt="sai1047" /></p>
