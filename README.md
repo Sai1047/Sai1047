@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python Framework and ML**
 
-- 👨‍💻 All of my projects are available at [https://santo-dev.vercel.app/](https://santo-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sai-santo.vercel.app/](https://sai-santo.vercel.app/)
 
 - 📫 How to reach me **saishanto2501@gmail.com**
 
