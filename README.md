@@ -31,8 +31,8 @@ Frontend Developer • Data Analytics • Machine Learning
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai1047&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats-sai1047.vercel.app/api?username=sai1047&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sai1047.vercel.app/api/top-langs?username=sai1047&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
