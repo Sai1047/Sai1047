@@ -1,6 +1,6 @@
 <h1 align="center">Sai</h1>
 <p align="center">
-Frontend Developer • Data Analytics • ML Learner
+Frontend Developer • Data Analytics • Machine Learning
 </p>
 
 <p align="center">
@@ -12,19 +12,18 @@ Frontend Developer • Data Analytics • ML Learner
 ---
 
 ### About Me
-- Currently building web applications
-- Learning Python frameworks & Machine Learning
-- Interested in UI design, analytics and clean interfaces
-- I like making simple things look premium
+
+- Building modern web applications  
+- Learning Python frameworks & Machine Learning  
+- Focused on clean UI and structured code  
+- Turning ideas into simple, usable products  
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,bootstrap,php,mysql,mongodb,python,tensorflow,figma,cpp" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,bootstrap,php,mysql,mongodb,python,tensorflow,figma,cpp" />
 </p>
 
 ---
@@ -32,14 +31,28 @@ Frontend Developer • Data Analytics • ML Learner
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sai1047&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sai1047&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sai1047&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sai1047&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 ### Current Focus
+
+```
+React / Next.js Architecture
+UI / UX Improvement
+Machine Learning Basics
+Data Visualization
+Backend Fundamentals
+```
+
+---
+
+<p align="center">
+  <sub>Building. Learning. Improving.</sub>
+</p>
