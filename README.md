@@ -1,42 +1,45 @@
-<h1 align="center">Hi! I'm Sai</h1>
-<h3 align="center">A passionate frontend developer and data analytics </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai1047&label=Profile%20views&color=0e75b6&style=flat" alt="sai1047" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Python Framework and ML**
-
-- 👨‍💻 All of my projects are available at [https://sai-santo.vercel.app](https://sai-santo.vercel.app)
-
-- 📫 How to reach me **saishanto2501@gmail.com**
-
-- ⚡ Fun fact **I think am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Sai</h1>
+<p align="center">
+Frontend Developer • Data Analytics • ML Learner
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>   </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>   </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>   </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>  </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>   </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>  </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  </a> </p>
+<p align="center">
+<a href="https://sai-santo.vercel.app">Portfolio</a> •
+<a href="mailto:saishanto2501@gmail.com">Email</a> •
+<a href="https://github.com/sai1047">GitHub</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&show_icons=true&locale=en&layout=compact" alt="sai1047" /></p>
+---
 
+### About Me
+- Currently building web applications
+- Learning Python frameworks & Machine Learning
+- Interested in UI design, analytics and clean interfaces
+- I like making simple things look premium
 
+---
 
+### Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,bootstrap,php,mysql,mongodb,python,tensorflow,figma,cpp" />
+
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sai1047&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai1047&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sai1047&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+### Current Focus
