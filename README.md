@@ -56,15 +56,6 @@ Data Visualization
 Backend Fundamentals
 ```
 
----
-
-<p align="center">
-  <sub>Building. Learning. Improving.</sub>
-</p>
-
-
----
-
 ## 2026 Goals
 
 - Build production-ready full stack applications  
