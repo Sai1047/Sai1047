@@ -1,4 +1,5 @@
 <h1 align="center">Sai</h1>
+
 <p align="center">
 Frontend Developer • Data Analytics • Machine Learning
 </p>
@@ -11,32 +12,41 @@ Frontend Developer • Data Analytics • Machine Learning
 
 ---
 
-### About Me
+## About Me
 
-- Building modern web applications  
-- Learning Python frameworks & Machine Learning  
-- Focused on clean UI and structured code  
-- Turning ideas into simple, usable products  
+- Building modern and responsive web applications  
+- Exploring Python frameworks and Machine Learning  
+- Focused on clean UI, structured code, and performance  
+- Turning ideas into practical, usable products  
 
 ---
 
-### Tech Stack
+## Tech Stack
+
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,bootstrap,php,mysql,mongodb,python,tensorflow,figma,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,nextjs,nodejs,php,mysql,mongodb,python,tensorflow,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</p>
+
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sai1047&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-### GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sai1047&theme=github-dark"/>
-</p>
-
----
-
-### Current Focus
 
 ```
 React / Next.js Architecture
@@ -51,3 +61,20 @@ Backend Fundamentals
 <p align="center">
   <sub>Building. Learning. Improving.</sub>
 </p>
+
+
+---
+
+## 2026 Goals
+
+- Build production-ready full stack applications  
+- Deploy scalable and optimized systems  
+- Strengthen DSA and problem solving  
+- Contribute to open source  
+
+---
+
+<p align="center">
+  <sub>Building. Learning. Improving.</sub>
+</p>
+
