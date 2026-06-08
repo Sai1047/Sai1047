@@ -68,4 +68,8 @@ Backend Fundamentals
 <p align="center">
   <sub>Building. Learning. Improving.</sub>
 </p>
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sai1047/sai1047/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
