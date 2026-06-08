@@ -14,10 +14,10 @@ Frontend Developer • Data Analytics • Machine Learning
 
 ## About Me
 
-- Building modern and responsive web applications  
-- Exploring Python frameworks and Machine Learning  
-- Focused on clean UI, structured code, and performance  
-- Turning ideas into practical, usable products  
+- Building modern and responsive web applications
+- Exploring Python frameworks and Machine Learning
+- Focused on clean UI, structured code, and performance
+- Turning ideas into practical, usable products
 
 ---
 
@@ -34,7 +34,6 @@ Frontend Developer • Data Analytics • Machine Learning
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
-
 ---
 
 ## GitHub Activity
@@ -47,8 +46,7 @@ Frontend Developer • Data Analytics • Machine Learning
 
 ## Current Focus
 
-
-```
+```text
 React / Next.js Architecture
 UI / UX Improvement
 Machine Learning Basics
@@ -58,16 +56,17 @@ Backend Fundamentals
 
 ## 2026 Goals
 
-- Build production-ready full stack applications  
-- Deploy scalable and optimized systems  
-- Strengthen DSA and problem solving  
-- Contribute to open source  
+- Build production-ready full stack applications
+- Deploy scalable and optimized systems
+- Strengthen DSA and problem solving
+- Contribute to open source
 
 ---
 
 <p align="center">
   <sub>Building. Learning. Improving.</sub>
 </p>
+
 ## 🐍 Contribution Graph
 
 <p align="center">
